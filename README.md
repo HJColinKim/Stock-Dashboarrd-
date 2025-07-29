@@ -7,7 +7,7 @@ A dashboard that stock investors can use to find out details and information abo
 
 The UI needs more work, but at the moment it's enough for basic functionality. 
 
-When the user types in an invalid Stock Symbol Name then it will run an error message through a Toast Popup instead of an alert message.
+ALert messages correctly managed for invalid Stock details/names. 
 
 
 A simple display of all the current data on stocks when the user types in a valid Stock Symbol. A nice and easy way for investors to constantly be up to date with the market! 
@@ -19,7 +19,7 @@ Also makes this website feel more like a personal dashboard that feels more home
 ![image](https://github.com/user-attachments/assets/55f905ee-70e5-4780-a848-49a232b6b599)
 
 
-*Note, AI chatbot model from Jotform still requires more training for effective use. 
+*AI chatbot model from Jotform still requires more training for effective use. 
 
 
 
